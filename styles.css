@@ -27,7 +27,7 @@ body{
 }
 
 header{
-	background:url(../Images/nb3wallpaper.jpg) no-repeat 0 -200px;
+	background:url(nb3wallpaper.jpg) no-repeat 0 -200px;
 	padding-bottom: 1em;
 	min-height: 70px;
 }
@@ -61,7 +61,7 @@ li a:hover {
 }
 
 section{
-	background:url(../Images/nb3wallpaper.jpg) no-repeat 0 -200px;
+	background:url(nb3wallpaper.jpg) no-repeat 0 -200px;
 	color:#000;
 	text-align: center;
 	border-top:rgba(178, 98, 12,.4) solid 2px;
@@ -98,7 +98,7 @@ section img{
 
 
 .portfolio{
-	background:url(../Images/Sunset.jpg) no-repeat 0px 0; 
+	background:url(Sunset.jpg) no-repeat 0px 0; 
 	color:#000;
 	border-top:rgba(178, 98, 12,.4) solid 2px;
 
